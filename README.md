@@ -1,6 +1,6 @@
 # heartdatasetTutorial
 
-Just trying to play around with r using Heart data set.\\
+Just trying to play around with r using Heart data set.\
 
 Attribute\
 1.age\
